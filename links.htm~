@@ -1,0 +1,49 @@
+<!doctype html>
+<html> 
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Sparkle Counseling</title>
+<link rel="stylesheet" href="mel_style.css" />
+</head>
+
+<body>
+<section id="long">
+	<div id="header">
+		</div>
+</section>
+	<nav>
+	<div class="ninesixo">
+	<ul>
+	<li><a href="index.htm" id="index">Home</a></li>
+	<li><a href="clients.htm" id="clients">Clients</a></li>
+	<li><a href="resources.htm" id="resources">Resources</a></li>
+	<li><a href="links.htm" id="links">Links</a></li>
+	</ul>
+	</div>
+	</nav>
+<div id="lwrapper">
+	
+<div class="blue3" >
+ <dl>
+ <dt>Linkedin</dt>
+ <dd><a href="http://www.linkedin.com/pub/melissa-houser-lpc-caciii/24/431/aa4">
+ View Melissa Houser&rsquo;s Linkedin profile.</a><br /><br /></dd>
+ </dl>
+ <dl>
+ <dt>Friendship Attachment</dt>
+<dd><a href="http://www.sparklecounseling.com/friendship.pdf">One of Melissa Houser’s special interests in the field of psychology is attachment theory. In 2010, she and Ronald D. Welch published this article on extending attachment theory to friendship.<br />
+<br></a></dd>
+ </dl>
+ <img src="img/einstein_quote.jpg" style="padding-left: 10px; padding-top: 50px;"/>
+ </div>
+</div> 
+ <footer id="foot">
+<div id="bottom">
+<img src="img/bottom.png" /> <br /><br />
+Highland Executive Center<br />
+2870 North Speer Boulevard<br />
+Suite 206, Denver, CO 80211<br />
+</div>
+</footer>
+</body>
+</html>

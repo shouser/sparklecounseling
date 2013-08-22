@@ -1,0 +1,58 @@
+<!doctype html> 
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Sparkle Counseling</title>
+<link rel="stylesheet" href="mel_style.css" />
+</head>
+
+<body>
+<section id="long">
+	<div id="header">
+		</div>
+</section>
+	<nav>
+	<div class="ninesixo">
+	<ul>
+	<li><a href="index.htm" id="index">Home</a></li>
+	<li><a href="clients.htm" id="clients">Clients</a></li>
+	<li><a href="resources.htm" id="resources">Resources</a></li>
+	<li><a href="links.htm" id="links">Links</a></li>
+	</ul>
+	</div>
+	</nav>
+<div id="cwrapper">
+ <div class="blue3">
+ <dl>
+ <dt>Meet Melissa</dt>
+ <dd><a href="melissa.htm">Read about our founder and counselor.</a><br /></dd>
+ </dl>
+ <dl><dt>Location</dt>
+ <dd><a href="directions.htm">Learn how to get to Sparkle Counseling. (It's a therapy treasure map!)</a></dd>
+ </dl>
+ <dl>
+ <dt>Intake Questionnaire</dt>
+ <dd><a href="intake.pdf">To get us started, please provide the background
+ information that answers these questions.</a></dd>
+ </dl>
+ <dl>
+ <dt>Consent Form</dt>
+ <dd><a href="consent.pdf">Consent to the mental health treatment of a minor child,
+ if you are that child's parent or guardian.</a></dd></dl>
+ <dl>
+ <dt>Disclosure Statement</dt>
+ <dd><a href="disclosure.pdf">This includes a detailed list of Melissa Houser's credentials and professional affiliations. It also details client rights, explains appointment cancellations, and covers counselor-client confidentiality. By law, its signature is required before treatment.</a></dd>
+ </dl>
+ <img src="img/buddha_quote.jpg" style="margin-left: 10px; margin-top: 50px;" />
+ </div>
+ </div>
+ <footer id="foot">
+<div id="bottom">
+<img src="img/bottom.png" /> <br /><br />
+Highland Executive Center<br />
+2870 North Speer Boulevard<br />
+Suite 206, Denver, CO 80211<br />
+</div>
+</footer>
+</body>
+</html>

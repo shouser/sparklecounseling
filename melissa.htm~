@@ -1,0 +1,64 @@
+<!doctype html>
+<html> 
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Sparkle Counseling</title>
+<link rel="stylesheet" href="mel_style.css" />
+</head>
+
+<body>
+<section id="long">
+	<div id="header">
+		</div>
+</section>
+	<nav>
+	<div class="ninesixo">
+	<ul>
+	<li><a href="index.htm" id="index">Home</a></li>
+	<li><a href="clients.htm" id="clients">Clients</a></li>
+	<li><a href="resources.htm" id="resources">Resources</a></li>
+	<li><a href="links.htm" id="links">Links</a></li>
+	</ul>
+	</div>
+	</nav>
+<div id="mwrapper">
+<div style="margin-top: 30px;">
+ <div class="bleu">
+ <span id="mel">Melissa Houser</span>
+ <p>Founder and counselor, Melissa Houser began Sparkle Counseling in 2011, after five years of counseling at-risk individuals suffering from adjustment difficulties, severe traumas, attachment issues, and dual diagnoses. Although her experience equips her to counsel an array of issues of varying severity, her heart&rsquo;s special passion is working with teens, young adult women, and children.</p>
+ </div>
+ <img src="img/mel.png" style="float: right; margin-top: 10px; margin-left: 0px;"/>
+ <div class="bleu2">
+<div class="can">
+<span class="big">Training</span>
+<span class="small">&nbsp;and</span>
+<span class="big">Education</span>
+</div>
+<p>
+Licensed in the State of Colorado as a Professional Counselor and certified as an Addictions Counselor Level III, she also holds various national certifications, and has recently completed training that will lead towards registration as a Registered Play Therapist. Currently completing her PhD in Counseling Psychology at the University of Denver, she holds a master&rsquo;s degree in counseling from Colorado Christian University and a Bachelor&rsquo;s of Music in Music Therapy from Appalachian State University.
+</p></div>
+<div class="bleu2">
+<div class="can">
+<span class="big">Philosophy</span>
+<span class="small">&nbsp;and</span>
+<span class="big">Approach</span>
+</div>
+<p>
+Melissa integrates experiential modalities such as sand trays, art, play, and music with traditional talk-therapy approaches of Cognitive-Behavioral therapy, Motivational Interviewing, and insight-oriented approaches.<br /><br /> 
+Her goal is to weave these approaches together to work with an individual&rsquo;s strengths, empowering them with a new self-story. She says, &ldquo;I believe everyone has strengths that allow success, but sometimes they are forgotten due to trauma or abuse. A fresh perspective can put the whole story together, provide that reminder, and allow an individual to emerge-spark of life reignited.&rdquo;
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer id="foot" style="clear: both;">
+<div id="bottom">
+<img src="img/bottom.png" /> <br /><br />
+Highland Executive Center<br />
+2870 North Speer Boulevard<br />
+Suite 206, Denver, CO 80211<br />
+</div>
+</footer>
+</body>
+</html>
